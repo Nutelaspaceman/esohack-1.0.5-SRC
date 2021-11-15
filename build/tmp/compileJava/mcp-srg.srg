@@ -1,0 +1,6 @@
+FD: com/esoterik/client/mixin/mixins/MixinEntityRenderer/itemActivationItem com/esoterik/client/mixin/mixins/MixinEntityRenderer/field_190566_ab
+FD: com/esoterik/client/mixin/mixins/MixinEntityRenderer/mc com/esoterik/client/mixin/mixins/MixinEntityRenderer/field_78531_r
+FD: com/esoterik/client/mixin/mixins/MixinKeyBinding/pressed com/esoterik/client/mixin/mixins/MixinKeyBinding/field_74513_e
+FD: com/esoterik/client/mixin/mixins/MixinRenderEnderCrystal/ENDER_CRYSTAL_TEXTURES com/esoterik/client/mixin/mixins/MixinRenderEnderCrystal/field_110787_a
+MD: com/esoterik/client/mixin/mixins/MixinEntityRenderer/getMouseOver (F)V com/esoterik/client/mixin/mixins/MixinEntityRenderer/func_78473_a (F)V
+MD: com/esoterik/client/mixin/mixins/MixinFontRenderer/renderString (Ljava/lang/String;FFIZ)I com/esoterik/client/mixin/mixins/MixinFontRenderer/func_180455_b (Ljava/lang/String;FFIZ)I

@@ -1,6 +1,8 @@
-esohack-1.0.5-SRC
-uploaded this in case you wanna modify it or steal some modules!
+# Gondal.club-1.0.5-CLEAN-AND-BUILDEABLE
+I'm so bored
 
-I hope this helped you.
+**¿How to build?**
 
-:)
+/gradlew setupDecompWorkspace
+
+/gradlew build
